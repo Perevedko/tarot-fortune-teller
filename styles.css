@@ -1,0 +1,27 @@
+html, body, .container-fluid {
+  background-color: white;
+  text-align: center;
+}
+
+.text-input {
+  font-size: 16px;
+}
+
+.hash-output {
+  color: #575B5E;
+  font-size: 16px;
+  letter-spacing: 2px;
+  white-space: pre-wrap;
+}
+
+.hash-heading {
+  color: #575B5E;
+  font-weight: normal;
+}
+
+.btn-gen {
+  margin: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  display: block;
+}
