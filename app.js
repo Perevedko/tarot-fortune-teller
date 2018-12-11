@@ -11,7 +11,7 @@ app.once('ready', () => {
     // Set the initial width to 800px
     width: 400,
     // Set the initial height to 600px
-    height: 600,
+    height: 700,
     // Set the default background color of the window to match the CSS
     // background color of the page, this prevents any white flickering
     backgroundColor: "#D6D8DC",
